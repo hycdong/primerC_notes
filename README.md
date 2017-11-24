@@ -1,2 +1,2 @@
-# primerC_notes
-Primer C++ reading notes
+# primer C++ 阅读笔记
+Primer C++ 阅读笔记
