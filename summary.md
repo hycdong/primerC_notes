@@ -5,3 +5,4 @@
   * [第二章-变量与基本类型](chapter02.md)
   * [第三章-字符串、向量和数组](chapter03.md)
   * [第四章-表达式](chapter04.md)
+  * [第六章-函数](chapter06.md)

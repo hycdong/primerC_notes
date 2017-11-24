@@ -277,4 +277,4 @@ decltype(i) e;          //正确，e是的类型int
   * 类的成员变量，const，constexpr类型的变量一般都定义在头文件中
   * 头文件一旦改变，相关的源文件必须重新编译以获取更新过的声明
   * 头文件的引用有时会有多次引用，要使用预处理变量
-    * #define，#ifdef，#ifndef,#endif
+  * \#define，\#ifdef，\#ifndef，\#endif
