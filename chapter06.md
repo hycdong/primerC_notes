@@ -23,7 +23,7 @@ void fcn(const int i ){}
 
 * 含有可变形参的函数
   * 有时我们无法提前预知应该向函数传递几个实参，C++11提供了两种解决方法，一种方法如下，另一种见`16.4节`
-  * initializer_list标准库，能够处理<span color="red">类型相同</span>的形参数量不确定的情况，使用方法如下：
+  * initializer_list标准库，能够处理<font color="red">类型相同</font>的形参数量不确定的情况，使用方法如下：
 
   ```
   void error_msg(ErrorCode e, initializer_list<string> li)
